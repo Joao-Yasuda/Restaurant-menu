@@ -1,5 +1,5 @@
 <h1 Align="center">
-name-badge</h1>
+Restaurant menu page</h1>
 
 ## 💻 Project
 
@@ -7,7 +7,7 @@ in this project i developed a Restaurant menu page with sections of each country
 
 ## 📐 Layout
 
-<img height= 300px src="./menu-image.png">
+<img height= 300px src="./Menu-image.png">
 
 ## 🚀 Techs
 
